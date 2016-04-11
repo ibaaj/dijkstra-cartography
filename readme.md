@@ -3,7 +3,7 @@
 
 - My home in Paris [[HD 14016x9599 / 7.3MB](./results/HD/paris.png)]
  ![./results/SD/paris.png](./results/SD/paris.png)
-- The Amazon river / Rio Amazonas [[HD 11962x7625 / 3MB](./results/HD/amazon.png)]
+- The Amazon river / Rio Amazonas with all its tributaries [[HD 11962x7625 / 3MB](./results/HD/amazon.png)]
 ![./results/SD/amazon.png](./results/SD/amazon.png)
 - Eastern European Railway (from Paris) [[HD 29255x9624 / 10.8MB](./results/HD/railway.png)]
 ![./results/SD/railway.png](./results/SD/railway.png)
