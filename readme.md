@@ -12,13 +12,13 @@
 
 ## Introduction
 
-I was fascinated by the project ["Roads to Rome"](http://roadstorome.moovellab.com/) by Moovellab but sad that it isn't opensource. Helped by [this project](https://github.com/Tristramg/roads-from-nd) (thanks @tristramg) I started to build my own map.
+I was fascinated by the project ["Roads to Rome"](http://roadstorome.moovellab.com/) by Moovellab but sad that it isn't opensource. Helped by [this project](https://github.com/Tristramg/roads-from-nd) (thanks @tristramg ) I started to build my own map.
 
 I did not have any GIS background but it was very interesting to discover what we can do with. The code isn't very good (I'm not a *C++ guru*).
 
 The project is named "*Dijkstra Cartography*" but sometimes [BFS algorithm](https://en.wikipedia.org/wiki/Breadth-first_search) is better (if all the edges have the same weight).
 
-This code can be useful for cartographer, as I found a lot of errors for the river Amazon ([see here](./results/errors.png)) or.. to have your poster 😉.
+This code can be useful for cartographer, as I found a lot of errors for the river Amazon ([see here](./results/errors.png)) or.. to have your own poster 😉.
 
 ## Extract
 
