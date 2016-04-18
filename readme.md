@@ -23,7 +23,7 @@ This code can be useful for cartographer, as I found a lot of errors for the riv
 ## Extract
 
 You may not want to use the [planet.osm](http://wiki.openstreetmap.org/wiki/Planet.osm) file (644GB - all the openstreetmap data in one file).
-Choose the right file [here](download.geofabrik.de) and extract what you really need with openstreetmap's tools : osmconvert, osmfilter, osmosis, osmium...
+Choose the right file [here](https://download.geofabrik.de) and extract what you really need with openstreetmap's tools : osmconvert, osmfilter, osmosis, osmium...
 
 One interesting way is that you can extract all the data within a polygon with osmconvert, and [here are some cities polygons](https://github.com/JamesChevalier/cities).
 
