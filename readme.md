@@ -75,10 +75,10 @@ I used cairo and I was really suprised that I can understand these map without u
 
 ## Details for each map
 
-- [Paris](./paris/readme.md)
-- [Amazon](./amazon/readme.md)
-- [Railway](./railway/readme.md)
-- [Flights](./flights/readme.md)
+- [Paris](./paris/)
+- [Amazon](./amazon/)
+- [Railway](./railway/)
+- [Flights](./flights/)
 
 ## Bonus
 

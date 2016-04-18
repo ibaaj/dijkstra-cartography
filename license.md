@@ -2,7 +2,7 @@
 
 Paris, the Amazon river and the railway are built using [OpenStreetMap](http://openstreetmap.org) and contributors (ODbL licensed map data).
 
-The [OpenFlights](http://openflights.org) Airport, Airline and Route Databases are made available under the Open Database License.
+The [OpenFlights](http://openflights.org) Airport, Airline and Route Databases are available under the Open Database License.
 
 [Cairo](http://www.cairographics.org/) is under LGPL License, [Boost](http://www.boost.org) is under  Boost Software License, [C++ Dijkstra algorithm](http://rosettacode.org/wiki/Dijkstra%27s_algorithm) from RosettaCode is under the GFDL license.
 
